@@ -170,3 +170,6 @@ background-size: 100% 200px;
 .red:hover{
     color: red !important;
 }
+ul{
+    list-style-type: none;
+}
